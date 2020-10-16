@@ -26,7 +26,7 @@
 
 ### Simple and automatic way
 
-Go [https://gettokengoogle.emusiccolection.repl.co/](https://gdindex-code-builder.maple3142.net/), and follow its instructions.
+Go [https://GETTOKENGOOGLE.emusiccolection.repl.co](https://gdindex-code-builder.maple3142.net/), and follow its instructions.
 
 ### Manual way
 
